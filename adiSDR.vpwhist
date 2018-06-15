@@ -1,0 +1,12 @@
+[Global]
+CurrentProject=adiSDR\adiSDR.vpj
+[ActiveConfig]
+adiSDR\adiSDR.vpj=,Debug|x64
+[ProjectDates]
+adiSDR\adiSDR.vcxproj=20180615012848214
+[TreeExpansion2]
+-@ adiSDR\adiSDR.vcxproj
+  - 來源檔案
+  - 標頭檔
+  + 資源檔
+scroll:0
